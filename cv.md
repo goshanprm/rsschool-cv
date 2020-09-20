@@ -14,8 +14,8 @@ I know a lot about marketing and ads.
 
 1. Skills:
   1. Basic HTML & CSS;
-  2. Basic JavaScript;
-  3. Git;
-  4. npm.
+  1. Basic JavaScript;
+  1. Git;
+  1. npm.
 
 Intermediate English.
