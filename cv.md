@@ -12,10 +12,10 @@ I know a lot about marketing and ads.
   * Learn programming;
   * Buy apartments on a seashore.
 
-1. Skills:
+**Skills:**
   1. Basic HTML & CSS;
-  1. Basic JavaScript;
-  1. Git;
-  1. npm.
+  2. Basic JavaScript;
+  3. Git;
+  4. npm.
 
 Intermediate English.
